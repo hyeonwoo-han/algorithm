@@ -4,6 +4,7 @@
 ## Notion 링크 - 공부한 내용 기록
 | 글 제목 | 링크(설명) |
 |--|--|
+| Single Linked List ( C ) | [C로 Linked List 구현 및 응용](https://bird-liver-ecc.notion.site/Single-Linked-List-C-a740b6eec3674da4b1bea11f55bec5c6?pvs=4) |
 | BufferedReader, BufferedWriter, StringBuilder 의 사용법과 속도, 주의사항 | [JAVA에서 속도를 고려한 입출력 방법과 StringBuilder를 사용한 문자열 편집](https://bird-liver-ecc.notion.site/BufferedReader-BufferedWriter-StringBuilder-0ef39a74daab465299f2c368513da602?pvs=4) |
 | StringTokenizer VS String.split() | [StringTokenizer와 split 속도 비교](https://bird-liver-ecc.notion.site/StringTokenizer-VS-String-split-7133dade7c804f46a48994859fc514b0?pvs=4) |
 | Stack 자료구조 | [C로 Stack 구현 연습](https://bird-liver-ecc.notion.site/Stack-3074b400284b456da06b900f70a9cf93?pvs=4) |
